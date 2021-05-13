@@ -1,4 +1,4 @@
-## Hola 👋🏻, ¡gracias por visitar nuestra pagina!😊🙌Actualmente estamos haciendo un proyecto de react, soy del CEMAS y espero que sea de su agrado nuestro proyecto🍃.
+## Hola 👋🏻, ¡gracias por visitar nuestra pagina!😊🙌Actualmente estamos haciendo un proyecto de react, soy del CEMAS.
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
